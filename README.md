@@ -13,9 +13,8 @@ This project performs an in-depth analysis of e-commerce supply chain data, expl
 2. [Dataset](#dataset)
 3. [Installation](#installation)
 4. [Analysis & Insights](#analysis-insights)
-5. [Visualization](#visualization)
-6. [Conclusion](#conclusion)
-7. [License](#license)
+5. [Conclusion](#conclusion)
+6. [License](#license)
 
 
 ## Dataset
@@ -52,4 +51,20 @@ To run this project, it’s recommended to use **Anaconda**, which comes pre-ins
    jupyter notebook
 
 
+## Analysis 
+The project analyzes various aspects of the supply chain:
+
+1. Product Performance: Identifying top-performing products and categories based on the number of units sold and revenue.
+2. Revenue Analysis: Understanding the revenue generation across different products and categories.
+3. Pricing Analysis: Studying the impact of pricing strategies on product sales and profitability.
+
+
+
+## Conclusion 
+
+This analysis provides valuable insights into the dynamics of e-commerce supply chains, focusing on the relationship between pricing, inventory, and sales performance. The project highlights areas where optimization could lead to higher profitability and better resource allocation. Future work could involve using machine learning for more accurate demand forecasting and incorporating real-time data for continuous optimization.
+
+
+## Licence 
+This project is licensed under the MIT License 
 
