@@ -12,7 +12,7 @@ This project performs an in-depth analysis of e-commerce supply chain data, expl
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Installation](#installation)
-4. [Analysis & Insights](#analysis-insights)
+4. [Analysis](#analysis)  
 5. [Conclusion](#conclusion)
 6. [License](#license)
 
@@ -65,6 +65,6 @@ The project analyzes various aspects of the supply chain:
 This analysis provides valuable insights into the dynamics of e-commerce supply chains, focusing on the relationship between pricing, inventory, and sales performance. The project highlights areas where optimization could lead to higher profitability and better resource allocation. Future work could involve using machine learning for more accurate demand forecasting and incorporating real-time data for continuous optimization.
 
 
-## Licence 
+## License 
 This project is licensed under the MIT License 
 
